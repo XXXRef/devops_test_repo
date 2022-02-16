@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 
-//master
+//master2
 
 int main(){
 	std::cout << "DEAD Beef" << std::endl;
